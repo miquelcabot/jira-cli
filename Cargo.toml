@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 anyhow = "1.0.100"
+clearscreen = "4.0.2"
 ellipse = "0.2.0"
 itertools = "0.14.0"
 serde = {version = "1.0.228", features = ["derive"] }
